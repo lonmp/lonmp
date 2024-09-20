@@ -1,5 +1,5 @@
 ---
-title: Post with Header Image
+title: Troisième oreille, transmissions
 tags: TeXt
 article_header:
   type: cover
